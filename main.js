@@ -1,2 +1,2 @@
-let diferente = 0
+let diferente = 1
 console.log(diferente);
